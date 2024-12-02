@@ -1,5 +1,5 @@
-import SectionLists from './SectionLists';
-import StarRating from './StarRating';
+import SectionLists from "./SectionList";
+
 
 const lists = [
   {
